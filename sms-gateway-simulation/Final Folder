@@ -1,0 +1,6 @@
+sms-gateway-simulation/
+│── App.java
+│── Dockerfile
+│── Jenkinsfile
+│── deployment.yaml
+│── README.md
